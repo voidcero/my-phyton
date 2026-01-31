@@ -139,3 +139,50 @@ Una variable no es complicada.
 Es solo un nombre que guarda algo.
 
 Si entiendes eso, ya entendiste lo más importante.
+
+## 1.8 Entrada de datos con input()
+
+En Python podemos pedirle información al usuario usando la función input().
+
+```phyton
+nombre = input("Ingresa tu nombre: ")
+print("Hola", nombre)
+```
+📌 Importante:
+Todo lo que entra por input() siempre es texto (str), aunque el usuario escriba números.
+
+## 1.9 Conversión de tipos
+
+A veces necesitamos convertir los datos para poder trabajar con ellos correctamente.
+
+Ejemplo con números
+
+```phyton
+edad = input("Ingresa tu edad: ")
+edad = int(edad)
+
+print("El próximo año tendrás", edad + 1)
+```
+
+Ejemplo con decimales
+
+```phyton
+precio = input("Ingresa el precio del producto: ")
+precio = float(precio)
+
+print("El precio con descuento es:", precio * 0.9)
+```
+Resumen rápido
+
+-input() sirve para recibir datos del usuario.
+
+-Los datos que entran por input() son de tipo str.
+
+-Podemos convertir los datos usando:
+
+--int() para números enteros
+
+--float() para números decimales
+
+-La conversión nos permite hacer cálculos y tomar decisiones.
+
