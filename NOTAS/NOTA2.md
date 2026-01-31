@@ -1,44 +1,15 @@
 # 1. Condicionales en python 🐍
 
+
+
 En programación, los condicionales sirven para tomar decisiones.
 Básicamente le decimos al programa:
 
 - Si pasa algo, haz esto.
 - Si no, haz otra cosa.
 
-``` python
-edad = 18
 
-if edad >= 18:
-    print("Eres mayor de edad")
-
-```
-
-📌 if significa si
-
-- La condición debe ser verdadera o falsa
-
-- Los dos puntos : indican que empieza un bloque
-
-- Lo que está indentado pertenece al if
-
-if + else
-
-``` python
-
-edad = int(input("Ingresa tu edad: "))
-
-if edad >= 18:
-    print("Puedes ingresar")
-else:
-    print("No puedes ingresar")
-```
-
-- else significa si no
-
-- Solo se ejecuta una de las dos opciones
-
-## 1.1 Comparadores más comunes
+## 1.1 - Comparadores más comunes
 
 | Operador | Significado |
 |--------|------------|
@@ -72,6 +43,34 @@ else:
 ```
 📌 Las comparaciones de texto distinguen mayúsculas y minúsculas.
 
+
+
+ 
+## 1.2 - Condicionales
+
+- La condición debe ser verdadera o falsa
+
+- Los dos puntos : indican que empieza un bloque
+
+- Lo que está indentado pertenece al if
+
+if + else
+
+``` python
+
+edad = int(input("Ingresa tu edad: "))
+
+if edad >= 18:
+    print("Puedes ingresar")
+else:
+    print("No puedes ingresar")
+```
+
+- else significa si no
+
+- Solo se ejecuta una de las dos opciones
+
+
 elif (otra condición)
 
 Se usa cuando hay más de dos posibilidades.
@@ -91,6 +90,25 @@ else:
 👉 elif significa si no, pero si…
 
 
+## 1.3 - Condicionales anidados
+
+Un if dentro de otro if.
+
+``` python
+edad = int(input("Edad: "))
+
+if edad >= 18:
+    if edad >= 65:
+        print("Adulto mayor")
+    else:
+        print("Adulto")
+else:
+    print("Menor de edad")
+```
+
+📌 Úsalos con moderación para no enredar el código.
+
+
 Resumen
 
 - if permite tomar decisiones
@@ -101,4 +119,65 @@ Resumen
 
 - Las condiciones se basan en comparaciones
 
-- La indentación es obligatoria
+- La indentación es 
+
+
+
+## 1.4 - Operadores lógicos
+
+Sirven para combinar varias condiciones.
+
+and (y)
+
+``` python
+
+edad = 20
+tiene_id = True
+
+if edad >= 18 and tiene_id:
+    print("Puedes ingresar")
+
+```
+👉 Ambas condiciones deben cumplirse.
+
+or (o)
+
+``` python
+
+dia = "sabado"
+
+if dia == "sabado" or dia == "domingo":
+    print("Es fin de semana")
+```
+
+👉 Basta con que una condición sea verdadera.
+
+not (negación)
+
+``` python
+
+lloviendo = False
+
+if not lloviendo:
+    print("Puedes salir")
+```
+
+👉 Invierte el valor lógico.
+
+Valores booleanos (True y False)
+
+
+````python
+
+activo = True
+
+if activo:
+    print("El sistema está activo")
+````
+
+📌 No hace falta escribir == True.
+
+
+
+
+
