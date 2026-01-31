@@ -6,7 +6,7 @@ En Python usamos principalmente dos ciclos:
 
 - for
 
-¿Qué es un ciclo en el fondo?
+## ¿Qué es un ciclo en el fondo?
 
 - Un ciclo no es código.
 - Un ciclo es una pregunta que se repite.
@@ -16,7 +16,7 @@ Mientras la respuesta sea sí, el ciclo continúa.
 Cuando la respuesta es no, el ciclo termina.
 Eso es todo.
 
-La estructura mental de TODO ciclo
+## La estructura mental de TODO ciclo
 
 Todo ciclo, sin excepción, tiene 4 cosas:
 
@@ -46,7 +46,7 @@ Imagina subir escaleras:
 
 Eso ES un ciclo.
 
-El error clásico (y por qué pasa)
+## El error clásico (y por qué pasa)
 
 La gente piensa solo en la acción:
 
@@ -62,7 +62,7 @@ Si no hay cambio:
 
 - ciclo infinito 😵‍💫
 
-Lógica del while
+## Lógica del while
 
 El while es el ciclo más puro.
 
@@ -79,7 +79,7 @@ La clave del while es:
 
 Por eso es peligroso si no entiendes la lógica.
 
-Lógica del for
+## Lógica del for
 
 El for es un ciclo controlado.
 
