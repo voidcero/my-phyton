@@ -180,9 +180,9 @@ Resumen rápido
 
 -Podemos convertir los datos usando:
 
---int() para números enteros
+  -int() para números enteros
 
---float() para números decimales
+  -float() para números decimales
 
 -La conversión nos permite hacer cálculos y tomar decisiones.
 
