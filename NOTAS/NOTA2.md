@@ -178,6 +178,9 @@ if activo:
 📌 No hace falta escribir == True.
 
 
+Cierre conceptual 🧠
 
+Los condicionales permiten que el programa reaccione a distintas situaciones.
+Gracias a ellos, el código deja de ser lineal y empieza a comportarse de forma inteligente.
 
 
