@@ -63,3 +63,79 @@ El tipo depende de qué clase de información se guarda.
 Son números sin decimales.
 
 23 → es el valor que se guarda
+
+
+```python
+edad = 23
+cantidad = 10
+```
+###1.4.2 Números decimales (float)
+
+Son números con decimales.
+
+```python
+altura = 1.73
+precio = 19.99
+```
+
+###1.4.3 Texto (str)
+
+Se usan para palabras o frases.
+Siempre van entre comillas.
+
+```python
+nombre = "Juan"
+mensaje = "Hola mundo"
+```
+
+##1.4.4 Valores lógicos (bool)
+
+Solo pueden ser:
+
+-True
+
+-False
+
+Sirven para representar sí / no, verdadero / falso.
+
+```python
+es_estudiante = True
+tiene_trabajo = False
+```
+
+##1.5 Ver el tipo de una variable
+
+Puedes usar type() para saber qué tipo tiene una variable.
+
+```python
+edad = 23
+print(type(edad))
+```
+Esto mostrará:
+
+```python
+<class 'int'>
+```
+##1.6 Ejemplo completo y sencillo
+
+```python
+nombre = "Juan"
+edad = 23
+altura = 1.73
+es_estudiante = True
+
+print(nombre)
+print(edad)
+print(altura)
+print(es_estudiante)
+```
+Este programa:
+
+-guarda información y luego la muestra en pantalla
+
+## 1.7 Idea clave para recordar 🧠
+
+Una variable no es complicada.
+Es solo un nombre que guarda algo.
+
+Si entiendes eso, ya entendiste lo más importante.
