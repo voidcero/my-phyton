@@ -184,6 +184,6 @@ Resumen rápido
 
   -float() para números decimales
 
--La conversión nos permite hacer cálculos y tomar decisiones.
+-La conversión nos permite hacer cálculos y tomar decisiones
 
 [NOTAS 2- CONDICIONALES](NOTAS2.md)
