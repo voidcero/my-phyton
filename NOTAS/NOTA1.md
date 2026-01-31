@@ -227,7 +227,7 @@ Resumen rápido
 
 En Python podemos pedirle información al usuario usando la función input().
 
-```phyton
+```python
 nombre = input("Ingresa tu nombre: ")
 print("Hola", nombre)
 ```
@@ -240,7 +240,7 @@ A veces necesitamos convertir los datos para poder trabajar con ellos correctame
 
 Ejemplo con números
 
-```phyton
+```python
 edad = input("Ingresa tu edad: ")
 edad = int(edad)
 
@@ -249,7 +249,7 @@ print("El próximo año tendrás", edad + 1)
 
 Ejemplo con decimales
 
-```phyton
+```python
 precio = input("Ingresa el precio del producto: ")
 precio = float(precio)
 
