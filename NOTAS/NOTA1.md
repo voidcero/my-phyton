@@ -23,7 +23,7 @@ Aquí:
 - 23 → es el valor que se guarda
 
 
-##1.2 ¿Por qué se llaman variables?
+## 1.2 ¿Por qué se llaman variables?
 
 Porque pueden cambiar.
 
@@ -69,7 +69,7 @@ Son números sin decimales.
 edad = 23
 cantidad = 10
 ```
-###1.4.2 Números decimales (float)
+### 1.4.2 Números decimales (float)
 
 Son números con decimales.
 
@@ -78,7 +78,7 @@ altura = 1.73
 precio = 19.99
 ```
 
-###1.4.3 Texto (str)
+### 1.4.3 Texto (str)
 
 Se usan para palabras o frases.
 Siempre van entre comillas.
@@ -88,7 +88,7 @@ nombre = "Juan"
 mensaje = "Hola mundo"
 ```
 
-##1.4.4 Valores lógicos (bool)
+## 1.4.4 Valores lógicos (bool)
 
 Solo pueden ser:
 
@@ -103,7 +103,7 @@ es_estudiante = True
 tiene_trabajo = False
 ```
 
-##1.5 Ver el tipo de una variable
+## 1.5 Ver el tipo de una variable
 
 Puedes usar type() para saber qué tipo tiene una variable.
 
@@ -116,7 +116,7 @@ Esto mostrará:
 ```python
 <class 'int'>
 ```
-##1.6 Ejemplo completo y sencillo
+## 1.6 Ejemplo completo y sencillo
 
 ```python
 nombre = "Juan"
