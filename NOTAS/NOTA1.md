@@ -92,9 +92,9 @@ mensaje = "Hola mundo"
 
 Solo pueden ser:
 
--True
+- True
 
--False
+- False
 
 Sirven para representar sí / no, verdadero / falso.
 
@@ -131,7 +131,7 @@ print(es_estudiante)
 ```
 Este programa:
 
--guarda información y luego la muestra en pantalla
+- guarda información y luego la muestra en pantalla
 
 ## 1.7 Idea clave para recordar 🧠
 
@@ -174,16 +174,16 @@ print("El precio con descuento es:", precio * 0.9)
 ```
 Resumen rápido
 
--input() sirve para recibir datos del usuario.
+- input() sirve para recibir datos del usuario.
 
--Los datos que entran por input() son de tipo str.
+- Los datos que entran por input() son de tipo str.
 
--Podemos convertir los datos usando:
+- Podemos convertir los datos usando:
 
-  -int() para números enteros
+  - int() para números enteros
 
-  -float() para números decimales
+  - float() para números decimales
 
--La conversión nos permite hacer cálculos y tomar decisiones
+- La conversión nos permite hacer cálculos y tomar decisiones
 
 [NOTAS 2- CONDICIONALES](NOTAS2.md)
