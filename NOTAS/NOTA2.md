@@ -69,4 +69,35 @@ if password == "python123":
 else:
     print("Contraseña incorrecta")
 ```
+📌 Las comparaciones de texto distinguen mayúsculas y minúsculas.
 
+elif (otra condición)
+
+Se usa cuando hay más de dos posibilidades.
+
+``` python
+
+nota = int(input("Ingresa la nota: "))
+
+if nota >= 4:
+    print("Aprobado")
+elif nota == 3:
+    print("Regular")
+else:
+    print("Reprobado")
+```
+
+👉 elif significa si no, pero si…
+
+
+Resumen
+
+- if permite tomar decisiones
+
+- else cubre el caso contrario
+
+- elif agrega más opciones
+
+- Las condiciones se basan en comparaciones
+
+- La indentación es obligatoria
