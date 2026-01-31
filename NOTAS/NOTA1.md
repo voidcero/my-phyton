@@ -5,7 +5,7 @@ con ejemplos claros y sin complicaciones.
 
 ---
 
-## 1.1 ¿Qué es una variable?
+## 1.0 ¿Qué es una variable?
 
 Una variable es **una forma de guardar información** para usarla después.
 
@@ -23,7 +23,7 @@ Aquí:
 - 23 → es el valor que se guarda
 
 
-## 1.2 ¿Por qué se llaman variables?
+## 1.1 ¿Por qué se llaman variables?
 
 Porque pueden cambiar.
 
@@ -33,7 +33,7 @@ edad = 24
 ```
 El valor cambió, pero la variable sigue siendo la misma.
 
-## 1.3 Reglas simples para nombrar variables
+## 1.2 Reglas simples para nombrar variables
 
 - No pueden empezar con números
 
@@ -54,12 +54,12 @@ Ejemplos incorrectos:
 1edad = 23      # empieza con número
 mi nombre = "A" # tiene espacio
 ```
-## 1.4 Tipos de datos básicos
+## 1.3 Tipos de datos básicos
 
 En Python, los valores tienen tipos.
 El tipo depende de qué clase de información se guarda.
 
-### 1.4.1 Números enteros (int)
+### 1.3.1 Números enteros (int)
 Son números sin decimales.
 
 23 → es el valor que se guarda
@@ -69,7 +69,7 @@ Son números sin decimales.
 edad = 23
 cantidad = 10
 ```
-### 1.4.2 Números decimales (float)
+### 1.3.2 Números decimales (float)
 
 Son números con decimales.
 
@@ -78,7 +78,7 @@ altura = 1.73
 precio = 19.99
 ```
 
-### 1.4.3 Texto (str)
+### 1.3.3 Texto (str)
 
 Se usan para palabras o frases.
 Siempre van entre comillas.
@@ -88,7 +88,7 @@ nombre = "Juan"
 mensaje = "Hola mundo"
 ```
 
-## 1.4.4 Valores lógicos (bool)
+## 1.3.4 Valores lógicos (bool)
 
 Solo pueden ser:
 
@@ -103,7 +103,7 @@ es_estudiante = True
 tiene_trabajo = False
 ```
 
-## 1.5 Ver el tipo de una variable
+## 1.4 Ver el tipo de una variable
 
 Puedes usar type() para saber qué tipo tiene una variable.
 
@@ -116,7 +116,7 @@ Esto mostrará:
 ```python
 <class 'int'>
 ```
-## 1.6 Ejemplo completo y sencillo
+## 1.5 Ejemplo completo y sencillo
 
 ```python
 nombre = "Juan"
@@ -133,12 +133,95 @@ Este programa:
 
 - guarda información y luego la muestra en pantalla
 
-## 1.7 Idea clave para recordar 🧠
+## 1.6 Idea clave para recordar 🧠
 
 Una variable no es complicada.
 Es solo un nombre que guarda algo.
 
 Si entiendes eso, ya entendiste lo más importante.
+
+## 1.7 Mostrar información con print()
+
+La función print() sirve para mostrar información en pantalla.
+
+
+```python
+print("Hola mundo")
+```
+También puede mostrar variables:
+```python
+print("Hola mundo")
+```
+O texto junto con variables:
+```python
+print("Hola mundo")
+```
+
+Separador sep
+
+Cuando print() muestra varios valores, por defecto los separa con un espacio.
+
+```python
+print("Hola", "Juan", "Fernando")
+```
+
+Resultado:
+
+```python
+ Hola Juan Fernando
+```
+
+Podemos cambiar ese separador usando sep.
+
+``` python
+print("Hola", "Juan", "Fernando", sep="-")
+```
+Resultado:
+``` python
+Hola-Juan-Fernando
+```
+
+📌 sep significa separator (separador).
+
+Final de línea end
+
+Por defecto, print() hace un salto de línea al final.
+
+```python
+print("Hola")
+print("Mundo")
+```
+
+Resultado:
+```python
+Hola
+Mundo
+```
+Podemos cambiar ese comportamiento usando end.
+
+``` python
+print("Hola", end=" ")
+print("Mundo")
+```
+
+Resultado:
+
+```python
+Hola Mundo
+```
+
+📌 end define qué se imprime al final del print.
+
+Resumen rápido
+
+- print() muestra información en pantalla
+
+- sep cambia el separador entre valores
+
+- end cambia el final del print
+
+- print() y input() trabajan juntos para interactuar con el usuario
+
 
 ## 1.8 Entrada de datos con input()
 
