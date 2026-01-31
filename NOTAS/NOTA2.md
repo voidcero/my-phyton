@@ -39,14 +39,15 @@ else:
 - Solo se ejecuta una de las dos opciones
 
 ## 1.1 Comparadores más comunes
-| Operador| Edad |
-|--------|------|
-| == | igual  | 
-| != | diferente  | 
-| < | menor  | 
-| > | mayor  | 
-| <=| menor o igual   | 
-| >=| mayor o igual  | 
+
+| Operador | Significado |
+|--------|------------|
+| == | igual |
+| != | diferente |
+| < | menor que |
+| > | mayor que |
+| <= | menor o igual |
+| >= | mayor o igual |
 
 Ejemplo:
 
