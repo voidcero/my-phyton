@@ -48,4 +48,25 @@ else:
 | <=| menor o igual   | 
 | >=| mayor o igual  | 
 
+Ejemplo:
+
+``` python
+
+numero = 10
+
+if numero == 10:
+    print("El número es diez")
+```
+
+Condiciones con texto
+
+``` python
+
+password = input("Ingresa la contraseña: ")
+
+if password == "python123":
+    print("Acceso concedido")
+else:
+    print("Contraseña incorrecta")
+```
 
