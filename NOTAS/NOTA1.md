@@ -186,4 +186,3 @@ Resumen rápido
 
 - La conversión nos permite hacer cálculos y tomar decisiones
 
-[NOTAS 2- CONDICIONALES](NOTAS2.md)
