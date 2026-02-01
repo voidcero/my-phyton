@@ -285,7 +285,7 @@ Resumen rápido
    🐍NOTA ANTERIOR
   </a>
 
- <a href="NOTAS2.md" style="
+ <a href="NOTA2.md" style="
     background-color: #238636; 
     color: white; 
     padding: 12px 24px; 
