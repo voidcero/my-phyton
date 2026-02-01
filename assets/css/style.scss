@@ -1,0 +1,38 @@
+---
+---
+@import "{{ site.theme }}";
+
+/* Fondo negro profundo y texto claro */
+body {
+  background-color: #000000 !important;
+  color: #e6edf3 !important;
+  font-family: 'Courier New', Courier, monospace; /* Opcional: para que parezca más de programador */
+}
+
+/* Encabezados en gris claro */
+h1, h2, h3, h4 {
+  color: #ffffff !important;
+}
+
+/* Eliminar definitivamente el botón de GitHub y el header */
+header, .btn, .buttons, aside {
+  display: none !important;
+}
+
+/* Ajustar el contenedor para que no se vea pegado al borde */
+.wrapper {
+  background-color: #000000 !important;
+  max-width: 800px !important;
+  margin: 0 auto !important;
+}
+
+/* Los links en un color que resalte pero no canse */
+a {
+  color: #2f81f7 !important;
+}
+
+/* Tu tabla de notas ahora se verá pro */
+table {
+  background-color: #0d1117;
+  border: 1px solid #30363d;
+}
