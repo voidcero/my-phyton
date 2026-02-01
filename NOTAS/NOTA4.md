@@ -1,4 +1,4 @@
-# 1 Lógica de Bits y Operadores Lógicos 🧠
+# 1 Lógica de Bits y Operadores Lógicos 🐍-NOTA#1
 
 En el vacío de la memoria de una computadora, no hay matices; solo existe la presencia o ausencia de energía. Como observadores conscientes, nuestra tarea es elegir la reacción correcta ante cada estímulo (bit).
 
