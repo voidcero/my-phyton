@@ -328,6 +328,38 @@ Cierre conceptual 🧠
 Los ciclos permiten automatizar tareas repetitivas.
 Gracias a ellos, el código es más corto, más claro y más poderoso.
 
+<br>
+<br>
+
+<div align="center">
+ 
+  <a href="https://voidcero.github.io/my-phyton/NOTAS/NOTA2.html" 
+   style="background-color: #da3633;
+   color: white; 
+   padding: 12px 24px; 
+   text-decoration: none; 
+   border-radius: 10px; 
+   font-weight: bold; 
+   display: inline-block;
+   left: 100px;">
+   🐍NOTA ANTERIOR
+  </a>
+
+ <a href="https://voidcero.github.io/my-phyton/NOTAS/NOTA4.html"
+    style="
+    background-color: #2f81f7; 
+    color: white; 
+    padding: 12px 24px; 
+    text-decoration: none; 
+    border-radius: 10px; 
+    font-weight: bold; 
+    display: inline-block;
+    margin: 5px;">
+    SIGUIENTE NOTA🐍
+    </a>
+
+</div>
+
 
 
 
