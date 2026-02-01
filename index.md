@@ -2,7 +2,7 @@
 
 ## Tableros
 
-- [Nota 1 – Variables y tipos](NOTAS/NOTA1.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [Proyecto 1 –Proyecto 1](NOTAS/NOTA1.md)           
+- [Nota 1 – Variables y tipos](NOTAS/NOTA1.md) <span style="display:inline-block; width: 200px;"></span> - [Proyecto 1 –Proyecto 1](NOTAS/NOTA1.md)           
 - [Nota 2 – Condicionales](NOTAS/NOTA2.md)
 - [Nota 3 – Ciclos](NOTAS/NOTA3.md)
 - [Nota 4 – Operadores logicos y de bits](NOTAS/NOTA4.md)
