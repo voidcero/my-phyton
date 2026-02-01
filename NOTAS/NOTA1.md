@@ -279,7 +279,7 @@ Resumen rápido
    border-radius: 20px; 
    font-weight: bold; 
    display: inline-block;
-   right: 100px;">
+   left: 100px;">
    🐍SIGUIENTE NOTA
   </a>
 
@@ -293,4 +293,5 @@ Resumen rápido
     display: inline-block;
     margin: 5px;">
     🛠️ PROYECTOS
+    
 </div>
