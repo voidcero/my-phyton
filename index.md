@@ -1,3 +1,9 @@
+<style>
+  .button, .view-on-github, #view-on-github {
+    display: none !important;
+  }
+</style>
+
 # mis apuntes en python 🐍
 
 ## Tableros
