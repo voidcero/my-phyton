@@ -1,5 +1,3 @@
-# mis apuntes en python 🐍
-
 ## Tableros
 
 | Lecciones | | Proyectos |
