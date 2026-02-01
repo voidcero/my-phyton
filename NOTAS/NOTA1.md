@@ -274,7 +274,7 @@ Resumen rápido
 <div align="center">
  
   <a href="https://voidcero.github.io/my-phyton/" 
-   style="background-color: #2f81f7;
+   style="background-color: #da3633;
    color: white; 
    padding: 12px 24px; 
    text-decoration: none; 
@@ -285,8 +285,8 @@ Resumen rápido
    🐍NOTA ANTERIOR
   </a>
 
- <a href="NOTA2.md" style="
-    background-color: #da3633; 
+ <a href="https://voidcero.github.io/my-phyton/NOTAS/NOTA2.html" style="
+    background-color: #238636; 
     color: white; 
     padding: 12px 24px; 
     text-decoration: none; 
