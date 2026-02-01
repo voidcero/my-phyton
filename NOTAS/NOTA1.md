@@ -268,4 +268,19 @@ Resumen rápido
   - float() para números decimales
 
 - La conversión nos permite hacer cálculos y tomar decisiones
-
+<br>
+<br>
+<div align="center">
+  <a href="NOTAS/NOTAS2.md" style="
+    background-color: #2f81f7; 
+    color: white; 
+    padding: 12px 24px; 
+    text-decoration: none; 
+    border-radius: 20px; 
+    font-family: sans-serif; 
+    font-weight: bold; 
+    box-shadow: 0px 4px 15px rgba(0,0,0,0.3);
+    display: inline-block;">
+     🐍 SIGUIENTE NOTA
+  </a>
+</div>
