@@ -271,20 +271,21 @@ Resumen rápido
 <br>
 <br>
 
-<div align="left">
+<div align="center">
  
-  <a href="NOTAS/NOTA1.md" 
+  <a href="https://voidcero.github.io/my-phyton/" 
    style="background-color: #2f81f7;
-   color: white; padding: 12px 24px; 
+   color: white; 
+   padding: 12px 24px; 
    text-decoration: none; 
-   border-radius: 20px; 
+   border-radius: 10px; 
    font-weight: bold; 
    display: inline-block;
    left: 100px;">
    🐍NOTA ANTERIOR
   </a>
 
- <a href="NOTAS/PROYECTOS.md" style="
+ <a href="NOTAS/NOTAS2.md" style="
     background-color: #238636; 
     color: white; 
     padding: 12px 24px; 
