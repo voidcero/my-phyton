@@ -1,1 +1,1 @@
-# MY-PYTHON 
+# [mis apuntes en python 🐍]
