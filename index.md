@@ -1,3 +1,5 @@
+# [mis apuntes en python 🐍](https://voidcero.github.io/my-phyton/)
+
 ## Tableros
 
 | Lecciones | | Proyectos |
