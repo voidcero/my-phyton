@@ -272,6 +272,7 @@ Resumen rápido
 <br>
 
 <div align="left">
+ 
   <a href="NOTAS/NOTA1.md" 
    style="background-color: #2f81f7;
    color: white; padding: 12px 24px; 
@@ -293,5 +294,6 @@ Resumen rápido
     display: inline-block;
     margin: 5px;">
     SIGUIENTE NOTA🐍
-    
+    </a>
+
 </div>
