@@ -183,4 +183,37 @@ Cierre conceptual 🧠
 Los condicionales permiten que el programa reaccione a distintas situaciones.
 Gracias a ellos, el código deja de ser lineal y empieza a comportarse de forma inteligente.
 
+<br>
+<br>
+
+<div align="center">
+ 
+  <a href="https://voidcero.github.io/my-phyton/NOTAS/NOTA1.html" 
+   style="background-color: #da3633;
+   color: white; 
+   padding: 12px 24px; 
+   text-decoration: none; 
+   border-radius: 10px; 
+   font-weight: bold; 
+   display: inline-block;
+   left: 100px;">
+   🐍NOTA ANTERIOR
+  </a>
+
+ <a href="https://voidcero.github.io/my-phyton/NOTAS/NOTA3.html"
+    style="
+    background-color: #2f81f7; 
+    color: white; 
+    padding: 12px 24px; 
+    text-decoration: none; 
+    border-radius: 10px; 
+    font-weight: bold; 
+    display: inline-block;
+    margin: 5px;">
+    SIGUIENTE NOTA🐍
+    </a>
+
+</div>
+
+
 
