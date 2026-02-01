@@ -286,7 +286,7 @@ Resumen rápido
   </a>
 
  <a href="NOTA2.md" style="
-    background-color: #238636; 
+    background-color: #da3633; 
     color: white; 
     padding: 12px 24px; 
     text-decoration: none; 
