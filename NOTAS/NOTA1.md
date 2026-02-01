@@ -286,7 +286,7 @@ Resumen rápido
   </a>
 
  <a href="https://voidcero.github.io/my-phyton/NOTAS/NOTA2.html" style="
-    background-color: #238636; 
+    background-color: #2f81f7; 
     color: white; 
     padding: 12px 24px; 
     text-decoration: none; 
