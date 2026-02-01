@@ -1,5 +1,3 @@
-</style>
-
 # mis apuntes en python 🐍
 
 ## Tableros
