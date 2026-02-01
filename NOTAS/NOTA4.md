@@ -169,4 +169,37 @@ else:
     print("El sensor 3 está apagado.")
 ```
 
+<br>
+<br>
+
+<div align="center">
+ 
+  <a href="https://voidcero.github.io/my-phyton/NOTAS/NOTA3.html" 
+   style="background-color: #da3633;
+   color: white; 
+   padding: 12px 24px; 
+   text-decoration: none; 
+   border-radius: 10px; 
+   font-weight: bold; 
+   display: inline-block;
+   left: 100px;">
+   🐍NOTA ANTERIOR
+  </a>
+
+ <a href="https://voidcero.github.io/my-phyton/NOTAS/NOTA5.html"
+    style="
+    background-color: #2f81f7; 
+    color: white; 
+    padding: 12px 24px; 
+    text-decoration: none; 
+    border-radius: 10px; 
+    font-weight: bold; 
+    display: inline-block;
+    margin: 5px;">
+    SIGUIENTE NOTA🐍
+    </a>
+
+</div>
+
+
 
