@@ -1,22 +1,3 @@
-<style>
-  /* Esto borra la sección del header donde vive el botón */
-  header .button, 
-  header .view-on-github, 
-  .breadcrumb,
-  a[href*="github.com"] {
-    display: none !important;
-    visibility: hidden !important;
-    height: 0 !important;
-    padding: 0 !important;
-  }
-  
-  /* Esto ajusta el espacio que queda vacío para que no se vea raro */
-  header {
-    padding-bottom: 20px !important;
-  }
-</style>
-
-
 # mis apuntes en python 🐍
 
 ## Tableros
