@@ -6,7 +6,7 @@
 
 ## Tableros
 
-| Lecciones | Espacio | Proyectos |
+| Lecciones | | Proyectos |
 | :--- | :---: | :--- |
 | [Nota 1 – Variables y tipos](NOTAS/NOTA1.md) | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | [Proyecto 1 – Proyecto 1](NOTAS/NOTA1.md) |
 | [Nota 2 – Condicionales](NOTAS/NOTA2.md) | | |
