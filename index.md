@@ -1,10 +1,3 @@
----
-layout: default
-title: ""
----
-# [my-phyton 🐍](https://tu-usuario.github.io/tu-repo/)
-Explorando el vacío del código.
----
 ## Tableros
 
 | Lecciones | | Proyectos |
