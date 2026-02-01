@@ -1,4 +1,4 @@
-# 1. Condicionales en python 🐍
+# 1. Condicionales en python 🐍-NOTA#2
 
 
 
