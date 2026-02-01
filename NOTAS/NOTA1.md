@@ -1,4 +1,4 @@
-# 1. Variables y tipos de datos en Python 🐍
+# 1. Variables y tipos de datos en Python 🐍-NOTA#1
 
 Esta nota explica qué son las variables y los tipos de datos en Python de una forma sencilla,
 con ejemplos claros y sin complicaciones.
