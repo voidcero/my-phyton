@@ -2,10 +2,6 @@
 
 ## Tableros
 
-# mis apuntes en python 🐍
-
-## Tableros
-
 | Lecciones | | Proyectos |
 | :--- | :---: | :--- |
 | [Nota 1 – Variables y tipos](NOTAS/NOTA1.md) | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | [Proyecto 1 – Proyecto 1](NOTAS/NOTA1.md) |
