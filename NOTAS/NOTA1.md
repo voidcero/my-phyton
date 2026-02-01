@@ -280,7 +280,7 @@ Resumen rápido
    font-weight: bold; 
    display: inline-block;
    left: 100px;">
-   🐍SIGUIENTE NOTA
+   🐍NOTA ANTERIOR
   </a>
 
  <a href="NOTAS/PROYECTOS.md" style="
@@ -292,6 +292,6 @@ Resumen rápido
     font-weight: bold; 
     display: inline-block;
     margin: 5px;">
-    🛠️ PROYECTOS
+    SIGUIENTE NOTA🐍
     
 </div>
