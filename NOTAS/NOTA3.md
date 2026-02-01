@@ -1,4 +1,4 @@
-# 1 ciclos🐍-NOTA#3
+# 1 ciclos 🐍-NOTA#3
 Un ciclo sirve para repetir acciones sin tener que escribir el mismo código muchas veces.
 En Python usamos principalmente dos ciclos:
 
