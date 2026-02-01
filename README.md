@@ -1,1 +1,1 @@
-# [mis apuntes en python 🐍]
+# [mis apuntes en python 🐍](https://voidcero.github.io/my-phyton/)
