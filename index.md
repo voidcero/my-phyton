@@ -7,3 +7,5 @@
 | [Nota 3 – Ciclos](NOTAS/NOTA3.md) | | |
 | [Nota 4 – Operadores logicos y de bits](NOTAS/NOTA4.md) | | |
 | [Nota 5 – Listas](NOTAS/NOTA5.md) | | |
+| [Nota 6 – Funciones y metodos](NOTAS/NOTA6.md) | | |
+| [Nota 7 – Coming soon](NOTAS/NOTA7.md) | | |
