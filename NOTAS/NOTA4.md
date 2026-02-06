@@ -140,21 +140,8 @@ Los operadores de bits manipulan los números entero a entero, bit a bit. Para e
 
 ---
 
-### B. Desplazamiento de Bits (Bit Shifting) 
-Mover los bits a la izquierda o derecha es la forma más rápida de multiplicar o dividir por potencias de 2.
 
-* **`<<` (Left Shift):** Desplaza los bits a la izquierda, añadiendo ceros a la derecha. Cada salto **multiplica por 2**.
-* **`>>` (Right Shift):** Desplaza los bits a la derecha. Cada salto **divide por 2** (descarta decimales).
-
-```python
-x = 5  # Binario: 00000101
-
-# Desplazar 2 posiciones a la izquierda
-resultado = x << 2  # Se convierte en 00010100 (que es 20)
-print(resultado)     # 5 * 2 * 2 = 20
-
-```
-C. Aplicación Real: Máscaras de Bits
+### B. Aplicación Real: Máscaras de Bits
 Imagina que recibes un byte (8 bits) de tu Ender 3 Pro que contiene el estado de 8 sensores. No quieres leer todo el número, solo quieres saber si el sensor número 3 (el bit 2) está encendido.
 
 ```python
